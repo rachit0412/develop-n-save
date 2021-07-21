@@ -1,1 +1,1 @@
-# develop-n-save
+Snowflake <--> WebApp connectivity
